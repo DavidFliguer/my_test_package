@@ -11,4 +11,5 @@ Once installed, it can be used like the following:
 from my_test_package.MyClass import MyClass
 
 mc = MyClass()
+
 mc.do_work()
